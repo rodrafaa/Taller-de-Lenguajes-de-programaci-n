@@ -25,4 +25,6 @@ except ZeroDivisionError:
     print("Error: No se puede dividir por cero.")
 except ValueError:
     print("Error: Por favor introduce solo números enteros.")
-´´´
+```
+3. Tarea #996 - Tarea del libro ✅
+![Alt text](https://github.com/rodrafaa/Taller-de-Lenguajes-de-programaci-n/blob/main/imagen_2026-02-24_084924768.png?raw=true)
