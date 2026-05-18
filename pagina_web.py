@@ -9,6 +9,8 @@ def home():
 if __name__ == "__main__":
     app.run(debug=True)
 
+----------------------------------------------------------------------------------
+
 mkdir templates; mkdir static; mkdir static/css
 ni index.html
 
@@ -24,4 +26,4 @@ ni index.html
 </body>
 </html>
 
-
+---------------------------------------------------------------------------------
