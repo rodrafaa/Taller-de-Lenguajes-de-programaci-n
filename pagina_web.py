@@ -53,14 +53,12 @@ npx @tailwindcss/cli -i ./static/css/input.css -o ./static/css/output-style.css 
 
 -------------------------------------------------------
 
-*HTML*
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GameStore</title>
+    <title>GameStore - Falsos_9</title>
 
     <link rel="stylesheet" href="{{url_for('static', filename='css/output-style.css')}}">
 
@@ -94,7 +92,7 @@ npx @tailwindcss/cli -i ./static/css/input.css -o ./static/css/output-style.css 
     <nav class="bg-zinc-950 border-b border-emerald-500 p-5 flex justify-between items-center">
 
         <h1 class="text-4xl font-black text-emerald-400 neon-text">
-            GameStore
+            GameStore - Falsos 9
         </h1>
 
         <ul class="flex gap-8 text-lg font-bold">
@@ -211,4 +209,3 @@ npx @tailwindcss/cli -i ./static/css/input.css -o ./static/css/output-style.css 
 
 </body>
 </html>
-
